@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacky. Nice to meet you here!
 - 👀 I’m interested in coding, photo shooting, football, etc.
-- 🌱 I’m currently learning Computer Science in UNNC.
+- 🌱 I’m currently an undergraduate student learning Computer Science in UNNC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
