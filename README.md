@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacky. Nice to meet you here!
+- 👋 Hi, I’m Jack. Nice to meet you here!
 - 👀 I’m interested in coding, photo shooting, football, etc.
 - 🌱 I’m currently an undergraduate student learning Computer Science at UNNC.
 - 💞️ I’m looking to collaborate on ...
