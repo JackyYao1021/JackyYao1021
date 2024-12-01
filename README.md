@@ -1,4 +1,4 @@
-- Hi, I’m Jack. Nice to meet you here!
+- Hi, I’m Yujie "Jack" Yao. Nice to meet you here!
 - I’m interested in coding, photography, football, etc.
 - I’m currently an undergraduate student majoring in Computer Science at UoN.
 
