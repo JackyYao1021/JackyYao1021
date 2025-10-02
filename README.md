@@ -1,5 +1,5 @@
 - Hi, I’m Yujie "Jack" Yao. Nice to meet you! 
-- I’m currently an undergraduate Computer Science student at UoN.
+- I’m currently a postgraduate student at UoE.
 
 <!---
 JackyYao1021/JackyYao1021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
