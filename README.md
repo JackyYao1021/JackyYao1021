@@ -1,5 +1,5 @@
 - Hi, I'm Yujie "Jack" Yao. Nice to meet you! :-)
-- MSc AI student @ UoE | BSc CS 25' @ UoN
+- MSc AI student @ UoE | BSc CS @ UoN 25'
 - Machine Learning for Neuroimaging 🧠 | NLP & Systems
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
